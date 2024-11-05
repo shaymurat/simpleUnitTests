@@ -35,7 +35,7 @@ if __name__ == '__main__':
 FAIL: test_walk (__main__.RunnerTest.test_walk)
 ----------------------------------------------------------------------
 Traceback (most recent call last):
-  File "tests_12_1.py", line 10, in test_walk
+  File "tests_12_1.py", line 11, in test_walk
     self.assertEqual(peshehod.distance, 50)
 AssertionError: 45 != 50
 
